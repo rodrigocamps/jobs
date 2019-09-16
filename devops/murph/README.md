@@ -26,7 +26,6 @@ algunas queries de contenidos
 
 Importante: Cada instancia no debe poder ver nada que use otra desde el ssh haciendo ping, por ejemplo,
 la instancia que usa Redis no puede acceder tambien a S3.
--
 ```
 
 ```
